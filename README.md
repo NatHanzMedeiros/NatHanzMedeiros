@@ -12,8 +12,7 @@
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />         
-            
->__*Stay hungry, stay foolish*__         
-           
 
+ __*Stay hungry, stay foolish*__                     
+           
 ![snake gif](https://github.com/NatHanzMedeiros/NatHanzMedeiros/blob/output/github-contribution-grid-snake.svg)
