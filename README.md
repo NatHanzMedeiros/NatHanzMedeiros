@@ -15,3 +15,5 @@
             
 >__*Stay hungry, stay foolish*__         
            
+
+![snake gif](https://github.com/NatHanzMedeiros/NatHanzMedeiros/blob/output/github-contribution-grid-snake.svg)
