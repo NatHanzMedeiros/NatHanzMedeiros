@@ -1,5 +1,4 @@
-
-### __Olá, me chamo Nathan Medeiros Cristiano. Estou cursando o ensino médio técnico, atualmente no 2º ano. Aqui você pode encontrar meu portifólio da área técnica, que envolve desenvolvimento de sistemas, tendo nele alguns codigos de programação, trabalhaos em git bash, designs, e linux.__  
+## Olá, me chamo Nathan. Estou cursando o ensino médio técnico, atualmente no 2º ano.   
 
 
  <div align="center">
