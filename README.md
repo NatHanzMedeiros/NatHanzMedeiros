@@ -4,7 +4,7 @@
  <div align="center">
   <a href="https://github.com/NatHanzMedeiros">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NatHanzMedeiros&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatHanzMedeiros&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatHanzMedeiros&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
  
  <img align="center" alt="Nathan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
