@@ -1,4 +1,4 @@
-## Ola, me chamo Nathan atualmente estou cursando o ensino médio técnico no 2º ano
+## Olá, me chamo Nathan atualmente estou cursando o ensino médio técnico no 2º ano
 
 
  <div align="center">
@@ -12,7 +12,7 @@
  <img align="center" alt="Nathan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
  <img align="center" alt="Nathan-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
  <img align="center" alt="Nathan-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- <img align="center" alt="Nathan-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />        
+  
 
   ###
  
