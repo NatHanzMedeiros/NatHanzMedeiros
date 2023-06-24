@@ -1,5 +1,3 @@
-## Olá, me chamo Nathan atualmente estou cursando o ensino médio técnico no 2º ano
-
 
  <div align="center">
   <a href="https://github.com/NatHanzMedeiros">
