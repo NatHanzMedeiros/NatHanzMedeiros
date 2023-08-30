@@ -23,6 +23,8 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry%20pi&logoColor=white" />
   <img alt="SCSS" src="https://img.shields.io/badge/-SCSS-hotpink?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" /
 </div>
 
  <br>
